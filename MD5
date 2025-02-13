@@ -1,0 +1,17 @@
+984e67711dd3f58ae2c02e34d4e11b86 *DESCRIPTION
+61bdffa8b12e20de55b02f59065b377a *NAMESPACE
+bd5dbe055fe00f3a124b8b823c1c683e *NEWS.md
+86a91215d1a0e151c630088981b3bc69 *R/NLPwavelet.R
+86809ff62044c001633a09f4250317ff *R/RcppExports.R
+ec43cec357e6ca40112b4d6eefe53b9b *R/welcome_msg.R
+b5eea0aa9f27adb7da3363d486c49e63 *README.md
+53b1c7e293a1c473844ba5a3975f342a *man/BNLPWA.rd
+b824c40ae11cd832fa5bdc6879c8e06a *man/NLPwavelet-package.Rd
+c25a318f6251182f3b15532361543333 *man/figures/README-example-1.png
+6e898221c6eca672a5836342820dd2f1 *man/figures/README-example-2.png
+70fea78e572c97bc14faf775c8f43a59 *man/figures/logo.png
+f6af0dae94b551a8c53467a476cd73d9 *man/figures/logo1.png
+6bcee6df7622505b45514c7fcc990ff2 *src/Makevars
+6bcee6df7622505b45514c7fcc990ff2 *src/Makevars.win
+eafdee5904ea8ab4f50c40c81ea91142 *src/NLPwavelet.cpp
+b45b7ecd935af44c44c78cb818cb7646 *src/RcppExports.cpp
