@@ -1,8 +1,8 @@
 Package: NLPwavelet
 Type: Package
 Title: Bayesian Wavelet Analysis Using Non-Local Priors
-Version: 1.0
-Date: 2025-02-09
+Version: 1.1
+Date: 2025-04-04
 Authors@R: person("Nilotpal", "Sanyal", role = c("aut", "cre"), email =
         "nsanyal@utep.edu")
 Description: Performs Bayesian wavelet analysis using individual non-local priors as described in Sanyal & Ferreira (2017) <DOI:10.1007/s13571-016-0129-3> and non-local prior mixtures as described in Sanyal (2025) <DOI:10.48550/arXiv.2501.18134>.
@@ -12,8 +12,9 @@ LinkingTo: Rcpp, RcppArmadillo
 URL: https://nilotpalsanyal.github.io/NLPwavelet/
 BugReports: https://github.com/nilotpalsanyal/NLPwavelet/issues
 Repository: CRAN
+Suggests: knitr, rmarkdown
 NeedsCompilation: yes
-Packaged: 2025-02-11 22:59:56 UTC; nsanyal
+Packaged: 2025-04-04 18:02:56 UTC; nsanyal
 Author: Nilotpal Sanyal [aut, cre]
 Maintainer: Nilotpal Sanyal <nsanyal@utep.edu>
-Date/Publication: 2025-02-13 10:00:06 UTC
+Date/Publication: 2025-04-04 18:20:02 UTC
